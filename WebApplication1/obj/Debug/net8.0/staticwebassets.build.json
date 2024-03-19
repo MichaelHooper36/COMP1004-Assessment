@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "U8QOI4dhl/IFSEDWV/svknDg69QujtvRRf/nqdX1YyM=",
+  "Hash": "ZrDW+tTsJFm+9R9xuVlK/2wJieARdyXq1Q6lK/euKSo=",
   "Source": "WebApplication1",
   "BasePath": "_content/WebApplication1",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "WebApplication1\\wwwroot",
       "Source": "WebApplication1",
-      "ContentRoot": "C:\\Users\\alici\\source\\repos\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\alici\\Documents\\COMP1004-Assessment\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\alici\\source\\repos\\WebApplication1\\wwwroot\\index.html",
+      "Identity": "C:\\Users\\alici\\Documents\\COMP1004-Assessment\\WebApplication1\\wwwroot\\index.html",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\alici\\source\\repos\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\alici\\Documents\\COMP1004-Assessment\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "index.html",
       "AssetKind": "All",
