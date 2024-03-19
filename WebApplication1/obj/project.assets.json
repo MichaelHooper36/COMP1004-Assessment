@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\alici\\source\\repos\\WebApplication1\\WebApplication1.csproj",
+      "projectUniqueName": "C:\\Users\\alici\\Documents\\COMP1004-Assessment\\WebApplication1\\WebApplication1.csproj",
       "projectName": "WebApplication1",
-      "projectPath": "C:\\Users\\alici\\source\\repos\\WebApplication1\\WebApplication1.csproj",
+      "projectPath": "C:\\Users\\alici\\Documents\\COMP1004-Assessment\\WebApplication1\\WebApplication1.csproj",
       "packagesPath": "C:\\Users\\alici\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\alici\\source\\repos\\WebApplication1\\obj\\",
+      "outputPath": "C:\\Users\\alici\\Documents\\COMP1004-Assessment\\WebApplication1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\alici\\AppData\\Roaming\\NuGet\\NuGet.Config",
