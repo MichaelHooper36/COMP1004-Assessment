@@ -7,24 +7,24 @@ In this game, you will dive deep into these magical worlds by obtaining fragment
 
 __Features:__
 
-  Norse mythology:
-    - Thor goes fishing for Jormungand.
-    - Brokkr, Sindri, and the creation of Mjollnir.
-    - The prophecy of Ragnarok.
+Norse mythology:
+  - Thor goes fishing for Jormungand.
+  - Brokkr, Sindri, and the creation of Mjollnir.
+  - The prophecy of Ragnarok.
 
-  Greek mythology:
-    - Theseus and the Minotaur.
-    - Daedalus and his son, Icarus.
+Greek mythology:
+  - Theseus and the Minotaur.
+  - Daedalus and his son, Icarus.
 
-  Japanese folklore:
-    - The story of Izanagi and Izanami
-    - The sacred Amaterasu cave
-    - Momotaro, the Local Hero
+Japanese folklore:
+  - The story of Izanagi and Izanami
+  - The sacred Amaterasu cave
+  - Momotaro, the Local Hero
 
-  Myths to be added in the future:
-    - Egyptian
-    - Chinese
-    - Roman
+Myths to be added in the future:
+  - Egyptian
+  - Chinese
+  - Roman
 
 __Prerequisites:__
 
