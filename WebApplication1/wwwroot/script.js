@@ -16,8 +16,8 @@ function randSite2() {
     document.getElementById(nam2[rand2]).classList.add("show");
 }
 
-var arr3 = [];
-var nam3 = [];
+var arr3 = ["#Spear", "#Japan", "#Fire", "#Amaterasu", "#Kami", "#Susanowo"];
+var nam3 = ["Spear", "Japan", "Fire", "Amaterasu", "Kami", "Susanowo"];
 function randSite3() {
     rand3 = Math.floor(Math.random() * arr3.length)
     location.href = arr3[rand3];
@@ -101,4 +101,40 @@ function wingsFunc()
 {
     document.getElementById("Wings").classList.remove("hidden");
     document.getElementById("Wings").classList.add("show");
+}
+
+function spearFunc() 
+{
+    document.getElementById("Spear").classList.remove("hidden");
+    document.getElementById("Spear").classList.add("show");
+}
+
+function japanFunc() 
+{
+    document.getElementById("Japan").classList.remove("hidden");
+    document.getElementById("Japan").classList.add("show");
+} 
+
+function fireFunc() 
+{
+    document.getElementById("Fire").classList.remove("hidden");
+    document.getElementById("Fire").classList.add("show");
+}
+
+function amateFunc() 
+{
+    document.getElementById("Amaterasu").classList.remove("hidden");
+    document.getElementById("Amaterasu").classList.add("show");
+}
+
+function kamiFunc() 
+{
+    document.getElementById("Kami").classList.remove("hidden");
+    document.getElementById("Kami").classList.add("show");
+}
+
+function susanoFunc() 
+{
+    document.getElementById("Susanowo").classList.remove("hidden");
+    document.getElementById("Susanowo").classList.add("show");
 }
