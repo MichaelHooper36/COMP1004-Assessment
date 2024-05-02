@@ -1,7 +1,7 @@
 var arr1 = ["#Giant", "#Jormungand", "#Sif", "#Mjollnir", "#Asgard", "#Winter", "#Loki", "#Ragnarok"];
 var nam1 = ["Giant", "Jormungand", "Sif", "Mjollnir", "Asgard", "Winter", "Loki", "Ragnarok"];
+var rand1 = Math.floor(Math.random() * arr1.length);
 function randSite1() {
-    var rand1 = Math.floor(Math.random() * arr1.length);
     location.href = arr1[rand1];
     document.getElementById(nam1[rand1]).classList.remove("hidden");
     document.getElementById(nam1[rand1]).classList.add("show");
@@ -9,8 +9,8 @@ function randSite1() {
 
 var arr2 = ["#Minotaur", "#Theseus", "#Athens", "#Deadalus", "#Wings"];
 var nam2 = ["Minotaur", "Theseus", "Athens", "Daedalus", "Wings"];
+var rand2 = Math.floor(Math.random() * arr2.length);
 function randSite2() {
-    var rand2 = Math.floor(Math.random() * arr2.length)
     location.href = arr2[rand2];
     document.getElementById(nam2[rand2]).classList.remove("hidden");
     document.getElementById(nam2[rand2]).classList.add("show");
@@ -18,8 +18,8 @@ function randSite2() {
 
 var arr3 = ["#Spear", "#Japan", "#Fire", "#Amaterasu", "#Kami", "#Susanowo"];
 var nam3 = ["Spear", "Japan", "Fire", "Amaterasu", "Kami", "Susanowo"];
+rand3 = Math.floor(Math.random() * arr3.length);
 function randSite3() {
-    rand3 = Math.floor(Math.random() * arr3.length)
     location.href = arr3[rand3];
     document.getElementById(nam3[rand3]).classList.remove("hidden");
     document.getElementById(nam3[rand3]).classList.add("show");
